@@ -21,4 +21,6 @@ class TestLogin():
         self.login.page_login_input_password(password)
         self.login.page_login_click()
 
+     def test_login2(self):
+        print("jenkins被执行")
 
