@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="page.loc_input_username" />
+          <option value="page.loc" />
+          <option value="page.loc_input_password" />
+          <option value="page.loc_click" />
+          <option value="base.get_driver.get_driver" />
+          <option value="page.loc_bth" />
+          <option value="page.loc_username" />
+          <option value="page.loc_password" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
